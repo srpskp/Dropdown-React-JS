@@ -1,0 +1,115 @@
+
+{
+  "state": [
+    { 
+      "name": "Gujarat",
+      "cities":[
+        "Ahemdabad",
+        "Surat",
+        "Rajkot",
+        "Anand",
+        "Kheda",
+        "Vadodara",
+        "Patan",
+        "Mahesana",
+        "Visnagar",
+        "Unjha",
+        "Surendranagar",
+        "Kuch"
+       ]  
+    },
+    {
+      "name": "Maharastra",
+      "cities":[
+        "Nasik",
+        "Pune",
+        "Mumbai",
+        "Kolhapur",
+        "Aurangabad",
+        "Nagpur",
+        "Solapur",
+        "Amravti",
+        "Jalgaon",
+        "Nanded",
+        "Osmanabad",
+        "Panvel",
+        "Latur",
+        "Chandrapur",
+        "Thane"
+       ]
+    },
+    {
+      "name": "Rajasthan",
+      "cities":[
+        "Jaipur",
+        "Udaipur",
+        "Jodhpur",
+        "Bikaner",
+        "Ajmer",
+        "Jaisalmer",
+        "Kota",
+        "Alwar",
+        "Pali",
+        "Sikar",
+        "Tonk",
+        "Dholpur",
+        "Kishangarh",
+        "Chittorgarh",
+        "Beawar"
+       ]
+      
+    },
+    {
+      "name": "Madhya Pradesh",
+      "cities":[
+        "Bhopal",
+        "Indor",
+        "Jabalpur",
+        "Gwalior",
+        "Sagar",
+        "Khandwa",
+        "Rewa",
+        "Guna",
+        "Vidisha",
+        "Satna",
+        "Kanti"
+        
+       ]
+      
+    },
+    {
+      "name": "Bihar",
+      "cities":[
+        "Patna",
+        "Gaya",
+        "Darbhanga",
+        "Muzaffarbad",
+        "Purnia",
+        "Munger",
+        "Nawada",
+        "Buxar",
+        "Jamalpur"
+       ]
+      
+    },
+    {
+      "name": "Himachal Pradesh",
+      "cities":[
+        "Simla",
+        "Dharamshala",
+        "Manali",
+        "Chamba",
+        "Solan",
+        "Kullu",
+        "Bilaspur",
+        "Kasauli",
+        "Nahan",
+        "Una",
+        "Rajgarh",
+        "Arki",
+        "Kangra",
+        "Jubbal"
+       ]
+    }
+  ]
+}
